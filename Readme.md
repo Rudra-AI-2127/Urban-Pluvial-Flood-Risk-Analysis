@@ -46,10 +46,11 @@ The goal is to uncover key risk factors and build an **interactive Power BI dash
 ---
 
 ## 👥 Team
-Team ARYA
-Team Members: 
+- Team ARYA
+= Team Members: 
 Rudra Pratap Singh Rathore,
 Ayush Pratap Singh,
 Yashpal
+
 
 
