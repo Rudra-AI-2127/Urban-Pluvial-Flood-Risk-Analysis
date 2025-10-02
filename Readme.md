@@ -111,26 +111,6 @@ Open the notebooks in the **`notebooks/`** folder to explore data cleaning, anal
 
 ---
 
-## 📄 Project Structure
-
-```
-urban-flood-risk-analysis/
-│
-├── data/
-│   ├── raw/                  # Original dataset
-│   └── processed/            # Cleaned and preprocessed dataset
-│
-├── notebooks/                # Jupyter notebooks for analysis
-├── src/                      # Python scripts for preprocessing and visualizations
-├── dashboard/                # Power BI dashboard and screenshots
-├── outputs/                  # Figures, reports, and insights
-├── presentation/             # PPT for stakeholders
-├── requirements.txt          # Python dependencies
-└── README.md                 # Project overview and instructions
-```
-
----
-
 ## 📈 Usage
 
 * Explore the EDA notebooks to understand patterns in flood risk.
@@ -164,3 +144,4 @@ urban-flood-risk-analysis/
 * Develop a **mobile dashboard** for on-field city planners.
 
 ---
+
